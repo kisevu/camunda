@@ -1,0 +1,8 @@
+camunda:
+  client:
+    mode: cloud  # or self-managed if using local broker
+    cloud:
+      clusterId: "<your-cluster-id>"
+      clientId: "<your-client-id>"
+      clientSecret: "<your-client-secret>"
+      region: "<your-region>"

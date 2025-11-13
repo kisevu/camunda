@@ -1,0 +1,3 @@
+CREATE DATABASE operate;
+CREATE DATABASE tasklist;
+CREATE DATABASE optimize;
